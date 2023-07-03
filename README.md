@@ -5,4 +5,7 @@
 
 Tools used - Tableau, Excel, PowerPoint
 
+Link to the Interactive viz - https://public.tableau.com/app/profile/vignesh.coumarane/viz/TheJourneyofadecade-Resume/NewResume
+
+
 #tableau #tableaupublic
